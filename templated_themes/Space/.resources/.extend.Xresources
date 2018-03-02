@@ -30,6 +30,8 @@ URxvt*cursorBlink:                    true
 URxvt*foreground: 		                #c6c6c6
 URxvt*cursorColor:		                #c6c6c6
 URxvt*saveLines:                      5000
+URxvt*transparent: true
+URxvt*shading: 15
 
 rofi.color-enabled: true
 
